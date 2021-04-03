@@ -3,5 +3,6 @@ Hey Guys, just feel free to add datasets and to drop an x in the table if you're
 |:----------:|:-------------:|------:|:-------------:|------:|:-------------:|
 | https://www.kaggle.com/ronitf/heart-disease-uci |   |  |   |   |   |
 | https://www.kaggle.com/gpreda/all-covid19-vaccines-tweets |   |  |   |   |   |
-| https://www.kaggle.com/uciml/breast-cancer-wisconsin-data |   |  |   |   |   |
-| https://www.kaggle.com/uciml/student-alcohol-consumption |  |  |   |   |   |
+| https://www.kaggle.com/uciml/breast-cancer-wisconsin-data |   | x |   |   |   |
+| https://www.kaggle.com/uciml/student-alcohol-consumption |  | x |   |   |   |
+| https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists |  |  |   |   |   |
