@@ -7,4 +7,4 @@ Hey Guys, just feel free to add datasets and to drop an x in the table if you're
 | https://www.kaggle.com/uciml/student-alcohol-consumption |  | x |   |   |  x |
 | https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists |  |  |   |   |   |
 | https://www.kaggle.com/rhuebner/human-resources-data-set |  |  |   |   |  x |
-| https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction |  |  |   |   | x |
+
